@@ -1,2 +1,2 @@
 # git_tutorial
-git tutorial
+git tutorial Велитченко М
